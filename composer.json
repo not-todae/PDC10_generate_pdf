@@ -1,0 +1,17 @@
+{
+    "name": "user/pdc10_pdf",
+    "autoload": {
+        "psr-4": {
+            "User\\Pdc10Pdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "not-todae",
+            "email": "echon.davidaaron@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "fpdf/fpdf": "^1.84"
+    }
+}
